@@ -3,8 +3,9 @@
 <!--
 **nivramam/nivramam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I love working on Backend and Cloud
-- 🔭 Recently worked with CI/CD and database migrations for the project I'm working on 
+- 🔭 I love working on Full-Stack, Backend and Cloud
+- 🔭 Recently worked with CI/CD and database migrations for the project I'm working on
+- 🔭 Successfully integrated LLM and graph datascience components into existing applications
 - ✋ I'm open to suggestions on code
 - 🌱 I’m currently working on becoming a good full stack dev
 - 🤔 I’m looking for courses in Devops 
